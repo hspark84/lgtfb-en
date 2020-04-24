@@ -1,6 +1,6 @@
 # Learnable Gammatone Filterbank (LGTFB) and Equal-loudness Normalization (EN) 
 
-This repo contains code for the paper [CNN-based Learnable Gammatone Filterbank and Equal-loudness Normalization for Environmental Sound Classification]().
+This repo contains code for the paper [CNN-based Learnable Gammatone Filterbank and Equal-loudness Normalization for Environmental Sound Classification](https://ieeexplore.ieee.org/document/9005226).
 
 ## Setup
 
